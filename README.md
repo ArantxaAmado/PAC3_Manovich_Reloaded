@@ -52,7 +52,7 @@ El jugador controla Joel, que pot fer servir una varietat d'armes i objectes per
 <img src="https://tramasdevideojuegos.com/wp-content/uploads/2020/08/TLOU_Wallpaper-min.jpg">
 </p>
 
-> *Font: Last Of Us (enllaç: (https://tramasdevideojuegos.com/wp-content/uploads/2020/08/TLOU_Wallpaper-min.jpg).*
+> *Last Of Us.*
 
 El videojoc és un exemple d'hibridació visible, ja que combina el cinema i el videojoc i es poden identificar els elements de cada mitjà. És una història lineal i cinematogràfica, amb personatges desenvolupats i una trama complexa. El joc presenta escenes pròpies del cinema que s'intercalen amb les seqüències de joc combinant l'acció i l'aventura dels videojocs tradicionals amb la narrativa i l'estètica del cinema i la televisió.
 
@@ -87,8 +87,10 @@ El futur dels mitjans segurament seguirà explorant aquesta tendència, brindant
  - [Hibridación de medios - Wikipedia, la enciclopedia libre](https://es.wikipedia.org/wiki/Hibridaci%C3%B3n_de_medios)
  - [Netflix - Wikipedia, la enciclopedia libre](https://es.wikipedia.org/wiki/Netflix)
  - [The Last of Us - Wikipedia, la enciclopedia libre](https://es.wikipedia.org/wiki/The_Last_of_Us)
- - Imatge Netflix. Computer Hoy. URL: https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/netflix.png?tf=1200x
  - Imatge Last Of Us. Tramas de videojuegos. URL: https://tramasdevideojuegos.com/wp-content/uploads/2020/08/TLOU_Wallpaper-min.jpg
  - Logotip de Netflix [imatge]. Logotip Netflix (2019), Wikipedia [consulta 14 de desembre de 2023]. Disponible a: https://commons.wikimedia.org/wiki/File:Logonfx.png
  - Contingut original sèries Netflix [imatge]. Contingut original Netflix, Hobbyconsolas [consulta 14 de desembre de 2023]. Disponible a: https://www.hobbyconsolas.com/reportajes/netflix-10-contenidos-originales-que-no-debes-perderte-130858
+ - Netflix Recommender [imatge]. Netflix Recommender, Redwoodalgorithms [consulta 14 de desembre de 2023]. Disponible a: https://www.redwoodalgorithms.com/ra-insights/2017/8/28/the-artificial-intelligence-that-is-shaping-what-we-watch
+ - Last Of Us [imatge]. Last Of Us, Tramasdevideojuegos [consulta 14 de desembre de 2023]. Disponible a: https://tramasdevideojuegos.com/exclusivos-playstation/historia-the-last-of-us/
+
 
