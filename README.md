@@ -84,7 +84,7 @@ El futur dels mitjans segurament seguirà explorant aquesta tendència, brindant
 ## Bibliografia
  -   Manovich, Lev. (2013).  **El Software toma el mando**. Barcelona: Editorial UOC.
  - [Fundamentos y evolución de la multimedia » Remediación, multimedia e hibridación de los medios (uoc.edu)](http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/)
- - [Hibridación de medios - Wikipedia, la enciclopedia libre](https://es.wikipedia.org/wiki/Hibridaci%C3%B3n_de_medios)
+ - Hibridacion de medios - Wikipedia, la enciclppedia libre. Wikipedia [consulta 14 de desembre de 2023]. Disponible a:https://es.wikipedia.org/wiki/Hibridaci%C3%B3n_de_medios
  - [Netflix - Wikipedia, la enciclopedia libre](https://es.wikipedia.org/wiki/Netflix)
  - [The Last of Us - Wikipedia, la enciclopedia libre](https://es.wikipedia.org/wiki/The_Last_of_Us)
  - Imatge Last Of Us. Tramas de videojuegos. URL: https://tramasdevideojuegos.com/wp-content/uploads/2020/08/TLOU_Wallpaper-min.jpg
