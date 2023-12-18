@@ -20,7 +20,7 @@ En aquest treball, analitzaré dos casos d'hibridació de mitjans que han tingut
 Actualment és una plataforma de streaming que combina la televisió i el cinema, oferint un catàleg variat de continguts audiovisuals que inclouen sèries, pel·lícules, documentals, animació, etc. però també ofereix continguts textuals, com articles d'opinió i ressenyes i continguts interactius, com jocs i concursos. Aprofitant la tecnologia de transmissió en línia, ofereix els seus serveis permetent que els usuaris puguin veure el seu contingut a temps real sense descarregues prèvies.
 
 ![Logotip_Netflix](https://upload.wikimedia.org/wikipedia/commons/1/15/Logonfx.png)
-> Font:  
+> Logotip de Netflix
 
 *Netflix* és un exemple d'hibridació invisible perquè ha eliminat les barreres tradicionals entre la televisió i el cinema. En el passat, la televisió i el cinema eren dos mitjans separats amb les seves pròpies convencions i formats. La televisió se centrava en la programació d'entreteniment de consum massiu, mentre que el cinema se centrava en la producció de pel·lícules d'alta qualitat. *Netflix* ha desafiat aquestes convencions en oferir un servei de streaming que inclou una barreja de sèries, pel·lícules, documentals, animació, etc. Això ha permès a la plataforma atraure una audiència més àmplia que la que podria captar una cadena de televisió tradicional o un estudi de cinema.
 
@@ -88,4 +88,6 @@ El futur dels mitjans segurament seguirà explorant aquesta tendència, brindant
  - [The Last of Us - Wikipedia, la enciclopedia libre](https://es.wikipedia.org/wiki/The_Last_of_Us)
  - Imatge Netflix. Computer Hoy. URL: https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/netflix.png?tf=1200x
  - Imatge Last Of Us. Tramas de videojuegos. URL: https://tramasdevideojuegos.com/wp-content/uploads/2020/08/TLOU_Wallpaper-min.jpg
+ - Logotip de Netflix [imatge]. Logotip Netflix (2019), Wikipedia [consulta 14 de desembre de 2023]. Disponible a: https://commons.wikimedia.org/wiki/File:Logonfx.png
+ - Contingut original sèries Netflix [imatge]. Contingut original Netflix, Hobbyconsolas [consulta 14 de desembre de 2023]. Disponible a: https://www.hobbyconsolas.com/reportajes/netflix-10-contenidos-originales-que-no-debes-perderte-130858
 
