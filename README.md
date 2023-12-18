@@ -86,7 +86,7 @@ El futur dels mitjans segurament seguirà explorant aquesta tendència, brindant
  - Fundamentos y evolución de la multimedia » Remediación, multimedia e hibridación de los medios (uoc.edu) [consulta 13 de desembre de 2023] Disponible a: http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/
  - Hibridacion de medios - Wikipedia, la enciclppedia libre. Wikipedia [consulta 14 de desembre de 2023]. Disponible a:https://es.wikipedia.org/wiki/Hibridaci%C3%B3n_de_medios
  - Netflix - Wikipedia, la enciclopedia libre. Wikipedia [consulta 14 de desembre de 2023] Disponible a: https://es.wikipedia.org/wiki/Netflix
- - The Last of Us - Wikipedia, la enciclopedia libre. Wikipedia []. Disponible a: https://es.wikipedia.org/wiki/The_Last_of_Us
+ - The Last of Us - Wikipedia, la enciclopedia libre. Wikipedia [consulta 14 de desembre de 2023]. Disponible a: https://es.wikipedia.org/wiki/The_Last_of_Us
  - Imatge Last Of Us. Tramas de videojuegos. URL: https://tramasdevideojuegos.com/wp-content/uploads/2020/08/TLOU_Wallpaper-min.jpg
  - Logotip de Netflix [imatge]. Logotip Netflix (2019), Wikipedia [consulta 14 de desembre de 2023]. Disponible a: https://commons.wikimedia.org/wiki/File:Logonfx.png
  - Contingut original sèries Netflix [imatge]. Contingut original Netflix, Hobbyconsolas [consulta 14 de desembre de 2023]. Disponible a: https://www.hobbyconsolas.com/reportajes/netflix-10-contenidos-originales-que-no-debes-perderte-130858
