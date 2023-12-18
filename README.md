@@ -1,7 +1,9 @@
 ﻿# PAC3 - Visionant el futur amb les ulleres de Manovich: redescobrint la hibridació
 
 ***Cultura Digital (Aula 1) - Grau en Tècniques d'Interacció Digital i Multimèdia***
+<br>
 *Nom: Aranzazu Amado Barjola
+<br>
 Data: 14/12/2023*
 
 ## Introducció
