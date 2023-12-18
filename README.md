@@ -20,13 +20,14 @@ En aquest treball, analitzaré dos casos d'hibridació de mitjans que han tingut
 Actualment és una plataforma de streaming que combina la televisió i el cinema, oferint un catàleg variat de continguts audiovisuals que inclouen sèries, pel·lícules, documentals, animació, etc. però també ofereix continguts textuals, com articles d'opinió i ressenyes i continguts interactius, com jocs i concursos. Aprofitant la tecnologia de transmissió en línia, ofereix els seus serveis permetent que els usuaris puguin veure el seu contingut a temps real sense descarregues prèvies.
 
 ![Logotip_Netflix](https://upload.wikimedia.org/wikipedia/commons/1/15/Logonfx.png)
-> Logotip de Netflix
+> *Logotip de Netflix*
 
 *Netflix* és un exemple d'hibridació invisible perquè ha eliminat les barreres tradicionals entre la televisió i el cinema. En el passat, la televisió i el cinema eren dos mitjans separats amb les seves pròpies convencions i formats. La televisió se centrava en la programació d'entreteniment de consum massiu, mentre que el cinema se centrava en la producció de pel·lícules d'alta qualitat. *Netflix* ha desafiat aquestes convencions en oferir un servei de streaming que inclou una barreja de sèries, pel·lícules, documentals, animació, etc. Això ha permès a la plataforma atraure una audiència més àmplia que la que podria captar una cadena de televisió tradicional o un estudi de cinema.
 
 Utilitza el metamedi computacional per oferir contingut original està utilitzant les tecnologies digitals per crear experiències d'entreteniment que són úniques i envolupants. Els seus continguts, són d’alta qualitat, amb guions complexos i personatges ben desenvolupats, l’ús d'elements innovadors com la interactivitat, la personalització, la realitat virtual i la realitat augmentada permet oferir experiències úniques que no són possibles en altres mitjans. La plataforma també s’ha convertit en un canal de distribució i producció, afavorint un major control sobre els contingut que ofereix als seus usuaris.
 
 ![enter image description here](https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2015/11/536194-netflix-10-contenidos-originales-que-no-debes-perderte.jpg?tf=1200x)
+> *Sèries de Netflix que són de contingut original*
 
 L’adaptació i la combinació dels mitjans tradicional amb les característiques pròpies de la cultura digital enriqueixen l’experiència de l’usuari i possibilita l’opció de veure els continguts en streaming. Gràcies a la seva personalització, fent servir les recomanacions que ofereix la plataforma mitjançant un sistema d’etiquetatge i categories del seu contingut, basat en algoritmes que analitzen el comportament dels usuaris i les seves preferències, permet generar llistes personalitzades i suggeriments de continguts.
 
@@ -34,7 +35,7 @@ L’adaptació i la combinació dels mitjans tradicional amb les característiqu
 <img src="https://4.bp.blogspot.com/-POUNSnQ2dOM/W9itus3ggZI/AAAAAAAAAoY/cDiY1Hg17pAHH0sGfZIvi27DmBl4TT_VwCLcBGAs/s1600/netflix-BI.png">
 </p>
 
-> *Font: redwoodalgorithms.com*
+> *El sistema Netflix Recommender compren diversos algoritmes per definir l'experiència de l'usuari.*
 
 També permet a l'usuari triar entre diferents dispositius, pausar, reprendre, avançar, retrocedir i saltar els continguts segons la seva preferència, crear perfils individuals o familiars, rebre recomanacions i suggeriments, veure continguts originals i exclusius, i accedir a elements interactius, com el mode offline, el control parental, els subtítols, l'àudio, etc.
 
